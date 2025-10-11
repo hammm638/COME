@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "command": "Xkill",
+    "reason": "testing"
+  }
+]
