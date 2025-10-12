@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-10-12T15:46:23.910Z",
+  "timestamp": "2025-10-12T15:46:24.910Z",
   "items": [
     {
       "name": "Item1",
-      "value": 11
+      "value": 1
     },
     {
       "name": "Item2",
-      "value": 88
+      "value": 65
     }
   ]
 }
